@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anoli\\Desktop\\Faculdade-Estrutura de dados\\Biblioteca2-com-sistema-de-emprestimo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64588C44-D40D-4F69-8B63-C91AA4B3525F}|Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.vcxproj|C:\\Users\\anoli\\Desktop\\Faculdade-Estrutura de dados\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64588C44-D40D-4F69-8B63-C91AA4B3525F}|Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.vcxproj|solutionrelative:Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Biblioteca2-com-sistema-de-emprestimo.cpp",
+              "DocumentMoniker": "C:\\Users\\anoli\\Desktop\\Faculdade-Estrutura de dados\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp",
+              "RelativeDocumentMoniker": "Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp",
+              "ToolTip": "C:\\Users\\anoli\\Desktop\\Faculdade-Estrutura de dados\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp",
+              "RelativeToolTip": "Biblioteca2-com-sistema-de-emprestimo\\Biblioteca2-com-sistema-de-emprestimo.cpp",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAmwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-06T18:01:10.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
